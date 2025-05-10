@@ -1,0 +1,9 @@
+.responsive-table {
+    overflow-x: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .responsive-table {
+      width: 100%;
+    }
+  }
